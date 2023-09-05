@@ -10,7 +10,7 @@ Make sure you have userscripts manager enabled in your browser. Some suggestions
   
 To install, you can click on [install userscript][vector_cppreference-userscript]
 
-[wikipedia-userscript]: https://github.com/MohamedElashri/vector_cppreference/raw/main/vector_cppreference.user.js
+[vector_cppreference-userscript]: https://github.com/MohamedElashri/vector_cppreference/raw/main/vector_cppreference.user.js
 
 Or you can copy and paste [userscript.js](https://github.com/MohamedElashri/vector_cppreference/blob/main/vector_cppreference.user.js) file into the userscript manager direcly. 
 
